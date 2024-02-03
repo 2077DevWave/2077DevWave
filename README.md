@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @2077DevWave
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning something good
-- 💞️ I’m looking to collaborate on Web Dev
+- 💞️ I’m looking to collaborate on Network Project
 - 📫 How to reach me 2077DevWave@gmail.com
 
 - site: [SideCo](https://sideco.ir) , [SideMovie](https://sidemovie.ir) and [KingWebs](https://kingwebs.ir)
