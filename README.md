@@ -83,7 +83,10 @@
 <div align="center">
 <a href="https://github.com/2077devwave" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>  
+</a>
+<a href="https://codeforces.com/profile/2077devwave" target="_blank">
+<img src=https://codeforces.org/s/61449/images/codeforces-sponsored-by-ton.png width=150px/>
+</a>
 </div>  
   
 
