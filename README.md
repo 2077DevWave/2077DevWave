@@ -4,10 +4,10 @@
 - 🔭 I’m currently working on Something Interesting  
   
 
-- 🌱 I’m currently learning Algorithm and DevOps  
+- 🌱 I’m currently learning Algorithm and Software Eng
   
 
-- ❓ Ask me about anything related to technologies  
+- ❓ Ask me about anything related to my skills
   
 
 - ⚡ Fun fact: ...  
