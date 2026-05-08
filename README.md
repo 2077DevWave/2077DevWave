@@ -78,6 +78,9 @@
 
 <br/>  
 
+## Codeforces background
+![Codeforces Stats](https://codeforces-stats-vlx.vercel.app/api/card?username=2077devwave&theme=dark)
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=2077devwave&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" /></div>  
 
 ## Connect with me  
 <div align="center">
@@ -87,12 +90,5 @@
   
 
 <br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=2077devwave&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" /></div>  
-
-<br/>  
-
 
 ----
